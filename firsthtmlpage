@@ -1,0 +1,22 @@
+
+<html>
+<head>
+<title>first web page</title>
+</head>
+<body bgcolor="oo8899" background="https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?cs=srgb&dl=bridge-cascade-environment-358457.jpg&fm=jpg">
+
+ <h1><font color="ffffff">hello everyone</font></h1>
+ <img src="/home/student/Downloads/rose.jpg" width=240 length=240 /img>
+<h2>flowers</h2>
+<ul>
+<font color="ffffff">
+<li><a href ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKRO99Jsp80K3fALMbhJe0tK2bHqAE0oUpQgmp5YL5ys7IjMjqw"><font color="ffffff">rose</a></li>
+<li><a href="https://images.gludy.com/photos/0/lotus-scenery-wallpaper.jpg"><font color="ffffff">lotus</a></li>
+<li><a href="https://isabela.iweb.co.uk/image/aHR0cHM6Ly93d3cucGV0ZXJueXNzZW4uY29tL21lZGlhL2NhdGFsb2cvcHJvZHVjdC9sL2kvbGlsaXVtLXJlZ2FsZS1hbGJ1bS0xMDcyXzFfNTQwX3hfNjczXzEuanBn/?q=75&e=1209600&t=inset&w=526&h=664"><font color="ffffff">lily</a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1902/7917/products/Tulip-Jumbo-Purple-Landscaper-Special-2_x2000_crop_center.jpg?v=1496046200"><font color="ffffff">tulip</a></li>
+</font>
+</ul>
+<a href="/home/student/second.html"><h4>next</h4></a>
+</body>
+</html>
+
